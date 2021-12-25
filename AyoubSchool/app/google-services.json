@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273768644231",
+    "project_id": "ayoubschool-6affb",
+    "storage_bucket": "ayoubschool-6affb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273768644231:android:04b42964d5b227b2874222",
+        "android_client_info": {
+          "package_name": "com.fikrtans.ayoubschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273768644231-32dhtemdc4lvgnm0tl2n0mb1sp19kinf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsd4lrLmQQgRZrJJXr2whPq7e2lbzkrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273768644231-32dhtemdc4lvgnm0tl2n0mb1sp19kinf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
